@@ -125,7 +125,7 @@ let ucetambolunenler,
 
 function sa() {
   console.log("Kodlar çalışıyor");
-  return "as";
+  return "tamam";
 }
 sa();
 module.exports = {
